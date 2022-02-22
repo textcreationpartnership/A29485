@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief survey of our losses by the exportation of wool</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29485</idno>
+            <idno type="STC">Wing B4652</idno>
+            <idno type="STC">ESTC R215056</idno>
+            <idno type="EEBO-CITATION">99827047</idno>
+            <idno type="PROQUEST">99827047</idno>
+            <idno type="VID">31459</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31459)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1863:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief survey of our losses by the exportation of wool</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Exports --  England --  Early works to 1800.</term>
+               <term>Wool industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:31459:1" rendition="simple:additions"/>
+            <head>A Brief Survey OF OUR LOSSES BY THE <hi>Exportation of Wool.</hi>
+            </head>
+            <p n="1">I. HE that duly conſiders the Quantity and Quali<g ref="char:EOLhyphen"/>ty of our <hi>Engliſh</hi> Wooll will readily acqui<g ref="char:EOLhyphen"/>eſce in the Opinion of our Anceſtors, who term'd it <hi>The Flower of the King's Grown; The Dowry of the Kingdom; The Chief Revenue of the Kings; The Gold of our</hi> Ophir, <hi>and the</hi> Indies <hi>of</hi> England: It affects all Con<g ref="char:EOLhyphen"/>ditions and Callings of Men amongſt us, from the higheſt Peer to the loweſt Peaſant.</p>
+            <p n="2">
+               <pb n="2" facs="tcp:31459:2"/> II. The Quantity of our Wooll is ſo Comprehenſive, that were it ſecured to Our Selves, induſtriouſly manag'd in its full Manufcture, and Exported by an <hi>Engliſh</hi> Mer<g ref="char:EOLhyphen"/>chandize and Navigation; it would give Imployment to ſo great a Number of People, that we ſhould ſoon become the Glory of the whole World, and be able to ballance the Affairs of all <hi>Europe.</hi>
+            </p>
+            <p n="3">III. Its Quality is more excellent, God and Nature has herein ſeemingly conſpired for a ſuitable Accommo<g ref="char:EOLhyphen"/>dation to all Ranks and Degrees of People, in the dif<g ref="char:EOLhyphen"/>ferent goodneſs of ſeveral Counties Wooll, which is ca<g ref="char:EOLhyphen"/>pable to be improved to any uſe, for the Benefit and Or<g ref="char:EOLhyphen"/>nament of the Body in a great Variety of Fancy, and true Merit, from the thickeſt Drabb to the thinneſt Crape, branching it ſelf into various Occupations, which pro<g ref="char:EOLhyphen"/>duce a wonderful Variety of manufactures, ſuitable to all Seaſons of the Year at Home, and the more different Climates abroad.</p>
+            <p n="4">IV. By this Excellent Commodity we are able to Out<g ref="char:EOLhyphen"/>do our Neighbours in all Merchandizes abroad. In what Eſteem have our <hi>Engliſh</hi> Factories liv'd in at <hi>Hambro, Flanders, Holland</hi> and <hi>Dantzick</hi> in former times? And what Eſtates have been brought home to our <hi>Engliſh</hi> Na<g ref="char:EOLhyphen"/>tion? And how are we now declined? Near expiring at <hi>Hambro;</hi> quite extinct in <hi>Flanders,</hi> and very few <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Merchants in <hi>Holland</hi> or <hi>Dantzick</hi> that reap any Bene<g ref="char:EOLhyphen"/>fit by our <hi>Golden-Fleece;</hi> and no great number at Home; and I think, I may truly ſay, That the late Growth of <hi>France</hi> has been chiefly owing to the Advantages they have gained this Thirty Five Years laſt paſt by our <hi>Engliſh</hi> Wooll.</p>
+            <p n="5">
+               <pb n="3" facs="tcp:31459:2"/> V. To illuſtrate this Matter, I will compute (with all poſſible exactneſs) the Loſs to our nation by one Pack of our fineſt Kemb'd Wooll Exported into <hi>France</hi> (large quantities of which have been Kemb'd at <hi>Canterbury</hi> and other Places, and then carried into <hi>France</hi> and <hi>Holland</hi>) by which we may make an Eſtimate of our whole Loſs in its due Proportion.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>One Pack containing Twelve Score of our fineſt Kemb'd Wooll, I com<g ref="char:EOLhyphen"/>pute to be worth at this time</cell>
+                     <cell>030</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Spinning of this into the fineſt Worſted, coſt Five Shillings <hi>per pound.</hi>
+                     </cell>
+                     <cell>060</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Four Ounces of this Worſted thus Spun, will make a Pair of Hoſe, worth Five Shillings the Knitting</cell>
+                     <cell>240</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>This Pack ſo Knit, will make Eigh<g ref="char:EOLhyphen"/>ty Dozen of Hoſe, which pay the King 7½ <hi>per Dozen</hi> Cuſtom</cell>
+                     <cell>002</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Dying of theſe Hoſe, partly with materials of our own Growth,</cell>
+                     <cell>000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table> the Cuſtom of Foreign Dy-Stuffs to the King, and the Freight, is a conſi<g ref="char:EOLhyphen"/>derable Article of Value, tho difficult to fix at a certain Sum: And <hi>France</hi> hath had but little leſs Advantage in our courſer Wooll; being inabled by one Pack of ours, to work up two of their own into Manufactures of a bet ter Quality.</p>
+            <p n="6">
+               <pb n="4" facs="tcp:31459:3"/> VI. The Imployment to their People, and loſs to ours (which is very conſiderable in ſo great a quantity of Wooll, an Account being taken of above Thirty Thou<g ref="char:EOLhyphen"/>ſand Packs which were Landed in one Year at Three Ports in <hi>France</hi>) I take to be but half our Loſs: For 'tis evi<g ref="char:EOLhyphen"/>dent, as the <hi>French</hi> increas'd in their Woollen-Manufact<g ref="char:EOLhyphen"/>ures at Home, they prevail'd in their Merchandizes and Factories Abroad, particularly in <hi>Spain,</hi> which hath been their moſt gainful Trade; and by this means got them<g ref="char:EOLhyphen"/>ſelves into a Fabrick of <hi>Spaniſh</hi> Cloth, which doth huge<g ref="char:EOLhyphen"/>ly interfere with out Intereſt at Foreign Markets. Altho <hi>Spaniſh</hi> Woolls are as free for their Money as ours; yet were they confin'd to the Linens of their own Nation, or any other product of <hi>France,</hi> to procure them, their Mer<g ref="char:EOLhyphen"/>chants in <hi>Spain</hi> would make to great Figure in their Sortments. The long Wooll of <hi>England</hi> and <hi>Ireland</hi> in its variety of Bays, Perpetuana's, Stockins Uſe, which is no way to be equal'd by any other part of the World (and ſo agreeable to the <hi>Spaniards, &amp;c.</hi> and the <hi>Weſt-In<g ref="char:EOLhyphen"/>dies</hi>) is certainly the maſter-Wheel of the <hi>Spaniſh</hi> Trade; and we are capable of ſecuring this advantage to our own Subjects, which would hugely leſſen the Intereſt of our chiefeſt Competitors in Trade. If the Strength of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> may be ſaid to be particular in any one thing (as <hi>Sampſon</hi> in his Locks) I ſhould readily aſſign it to the excellent Staple of our long-combing Wooll.</p>
+            <p n="7">VII. And here I can't but mention one particular, by which in my Opinion, <hi>France</hi> hath had a great benefit <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Wooll, by our own Act and Deed. <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>t the coming-in of King <hi>Charles</hi> the Second, the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ds of <hi>Jerſie, Guernſie, Alderney</hi> and <hi>Sark,</hi> were allow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hree Thouſand Three Hundred Todds of <hi>Engliſh</hi> 
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>l, each Todd Thirty Two Pounds. In the be<g ref="char:EOLhyphen"/>ginning
+<pb n="5" facs="tcp:31459:3"/>of the Reign of His Preſent Majeſty King <hi>William,</hi> thoſe Iſlands were allowed by Act of Parliament, Three Thouſand thre hundred Todds more, and a Liberty gi<g ref="char:EOLhyphen"/>ven by the ſame Act to <hi>French, Dutch, Flanderkins, Ham<g ref="char:EOLhyphen"/>burgers, Germans, Danes, Swedes,</hi> &amp;c. to Export our Woollen-Manufactures to their Native Countries up<g ref="char:EOLhyphen"/>on equal Terms with our <hi>Engliſh</hi> Subjects; and how theſe new Sett of Merchants fell in to the Exporting of our Wooll and <hi>Smuggling of Goods,</hi> is pretty well known—<hi>Felo de ſe</hi>—And it will be very difficult to prevent this practice, as our Affairs now ſtand, having ſcarce <hi>EngliſH</hi> merchants enough abroad to give Notice of the landing of our Wooll on that ſide. This Six Thouſand Six Hun<g ref="char:EOLhyphen"/>dred Todds allowed to thoſe Iſlands, doth chiefly con<g ref="char:EOLhyphen"/>ſiſt of Combing-Wooll for Worſted-Hoſe, a valuable and uſeful Commodity at moſt Foreign Markets; and the amount of the Workmanſhip may be eaſily caſt up by the aforeſaid Calculation; provided there be no greater quan<g ref="char:EOLhyphen"/>tity Exported, which is very much doubted.</p>
+            <p>How Commondious theſe Iſlands are in their Scituation for <hi>France</hi> to reap the benefit of their labour, I need on<g ref="char:EOLhyphen"/>ly mention, the Inhabitants (conſiſting of many <hi>French</hi>) are able to live very Cheap, and work accordingly, at about half the price we pay in many Places in <hi>England.</hi> They enjoy the Benefit of the Draw-back of the Cuſtom of our <hi>Weſt-India</hi> Goods, and pay not the leaſt Tax to <hi>England.</hi> What Stockins are brought into <hi>England,</hi> and exported a<g ref="char:EOLhyphen"/>gain, by the Carriage and Cuſtom paid to the King, may be rendred Four or Five <hi>per Cent.</hi> cheaper by the <hi>French.</hi> The reaſon upon which this is grounded, I can't perceive.</p>
+            <p>To alledge that any part of the Creation is left inſuffici<g ref="char:EOLhyphen"/>ent for its own Subſiſtence and Preſervation, muſt be a re<g ref="char:EOLhyphen"/>flection upon Divine Providence; and that all parts of the
+<pb n="6" facs="tcp:31459:4"/>World ſhould be upon an equal Foot in obtaining this Subſiſtence, ſeems to be contrary to the Deſign of the great Creator. St. <hi>Paul</hi> valued himſelf in being a Free-born <hi>Roman.</hi> Theſe Iſlands have Wooll of their own Growth, and doubtleſs muſt be very fair for Fiſhing, and by that means may be ſubſervient to <hi>England,</hi> as we now ſerve them: Which practice will ſtrengthen their Iſlands in Shipping and Seamen, for their Preſervation; and what is got out of the Sea will be a clear Gain; the loſs of our Fiſhing is very conſiderable, and much lamented. I know no ſuch Inſtance of Generoſity, to give away that which God and Nature has made our Birth-right, whilſt multi<g ref="char:EOLhyphen"/>tudes of our Woollen Manufactures have wanted it at Home, who are under many heavy Taxes. We may learn better of our rich neighbours, who are ſaid to burn part of their Spices in the <hi>Indies,</hi> that we may pay them the better Price, which we do at this time with a Witneſs.</p>
+            <p n="8">VIII. As our Affairs now ſtand, it highly concerns us to ſecure our own Wooll, which being effectually done but one whole year, many eſtabliſhed Fabricks abroad with our Wooll, muſt of neceſſity ſink, and the manufa<g ref="char:EOLhyphen"/>cturers diſperſe, and many of our own brought home again, which many years would not recover. And we can pro<g ref="char:EOLhyphen"/>miſe to our ſelves, at this juncture, no advantageous Settle<g ref="char:EOLhyphen"/>ment of Trade, but by an effectual Cure of this Evil; to the effecting of which, whatſoever Money is expended, will be brought in again to the King in his Cuſtoms, with a hundred-fold advantage to the Nation. To find out the Cauſes of Things, is ſaid, to be a Work of Philoſophy; to find out a fit Remedy, is of high Eminency; but to apply the Remedy, is a Matter of State and Policy.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
